@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Sentou Gakuen"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  logo = "img/logo.png"
+  description = "Sentou Gakuen: Revival - An Online Interactive Visual Novel"
+  # copyright = "Copy, _right?_ :thinking_face:"
+  dateFormat = "2 January 2006"
+
+[params.author]
+  name = "gakuen.org"
+  image = "img/avatar.png"
+  headline = "Developer of Sentou Gakuen: Revival"
+  bio = "Developer of Sentou Gakuen: Revival"
+   links = [
+     { link = "https://gakuen.org/" },
+     { x-twitter = "https://x.com/SentouGakuen" },
+   ]
