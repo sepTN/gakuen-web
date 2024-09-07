@@ -104,3 +104,7 @@ mainSections = ["posts"]
 [selineAnalytics]
   token = "8567b391c7274eb"
   enableTrackEvent = true
+
+[umamiAnalytics]
+  websiteid = "49a63367-2404-4610-b2ca-2efa51233311"
+  enableTrackEvent = true
