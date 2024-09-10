@@ -23,7 +23,12 @@
 [[main]]
   name = "Community"
   url = "https://steamcommunity.com/app/405680"
+
   weight = 30
+[[main]]
+  name = "Guides"
+  pageRef = "guides"
+  weight = 40
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
