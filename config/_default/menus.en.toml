@@ -16,12 +16,12 @@
   weight = 10
 
 [[main]]
-  name = "About"
-  pageRef = "About"
+  name = "Features"
+  pageRef = "features"
   weight = 20
 
 [[main]]
-  name = "Community"
+  name = "Discussion"
   url = "https://steamcommunity.com/app/405680"
 
   weight = 30
@@ -34,7 +34,7 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
-[[footer]]
+ [[footer]]
   identifier = "discord"
   pre = "discord"
   url = "https://discord.gg/GUJkUWymmT"
@@ -46,14 +46,20 @@
   url = "https://x.com/SentouGakuen"
   weight = 20
 
+ [[footer]]
+  identifier = "facebook"
+  pre = "facebook"
+  url = "https://facebook.com/sentougakuen"
+  weight = 30
+
   [[footer]]
   identifier = "youtube"
   pre = "youtube"
   url = "https://www.youtube.com/sentougakuen"
-  weight = 30
+  weight = 40
 
   [[footer]]
   identifier = "twitch"
   pre = "twitch"
   url = "https://www.twitch.tv/sentougakuen"
-  weight = 40
+  weight = 50
