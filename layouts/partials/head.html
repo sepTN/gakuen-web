@@ -7,16 +7,17 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     {{/* Title */}}
     {{ if .IsHome -}}
-    <title>{{ .Site.Title | emojify }} - Online Interactive Visual Novel</title>
-    <meta name="title" content="{{ .Site.Title | emojify }}" />
+    <title>Online Visual Novel - {{ .Site.Title | emojify }}</title>
+    <meta name="title" content="Online Visual Novel - {{ .Site.Title | emojify }}" />
+    <meta name="description" content="Join Sentou Gakuen, an interactive online visual novel with unique characters, fun battles, and an immersive high school world. Start your journey today!" />
     {{- else -}}
     <title>{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}</title>
     <meta name="title" content="{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}" />
-    {{- end }}
-    {{/* Metadata */}}
     {{ with (.Params.Summary | default .Params.Description) | default .Site.Params.description -}}
     <meta name="description" content="{{ . }}" />
     {{- end }}
+    {{- end }}
+    {{/* Metadata */}}
     {{ with  .Params.Tags | default .Site.Params.keywords -}}
     <meta name="keywords" content="{{ range . }}{{ . }}, {{ end -}}" />
     {{- end }}
