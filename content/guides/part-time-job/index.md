@@ -4,7 +4,7 @@ summary: ""
 tags: ["guides"]
 #externalUrl: ""
 #showSummary: true
-date: 2024-01-01
+date: 0002-01-30
 draft: false
 showDate: false
 ---
@@ -14,7 +14,7 @@ In Sentou Gakuen: Revival, students can take part-time jobs to earn money. These
 ### Locations
 There are several locations in the city where students can find part-time jobs. These locations include:
 - **Café** (Evening), where students can work as a dishwasher. This job is more effective if your Perception is more dominant than Strength & Intelligence.
-- **Seedy Shop** (Morning), where students can work as a transporter. This job is more effective if your Strength is more dominant than Perception & Intelligence.
+- **CMart** (Morning), where students can work as a transporter. This job is more effective if your Strength is more dominant than Perception & Intelligence.
 - **Office Building** (Noon), where students can work as a clerk. This job is more effective if your Intelligence is more dominant than Strength & Perception.
 
 ### Risky Jobs

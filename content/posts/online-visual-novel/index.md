@@ -1,5 +1,5 @@
 ---
-title: "Online Visual Novel in Godot: Case Study on Sentou Gakuen"
+title: "Online Visual Novel in Godot: A Case Study"
 summary: "In this short case study, we will focus on how Sentou Gakuen, an online visual novel developed in Godot Engine, attempts to redefine the genre. We'll explore some of the challenges involved and why this approach was chosen for the project. Let's dive in!"
 tags: ["post","blog"]
 #externalUrl: ""
