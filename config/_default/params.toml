@@ -101,6 +101,4 @@ mainSections = ["posts"]
   # pinterest = ""
   # yandex = ""
 
-[selineAnalytics]
-  token = "8567b391c7274eb"
-  enableTrackEvent = true
+
