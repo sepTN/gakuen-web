@@ -140,8 +140,8 @@ smartTOCHideUnfocusedChildren = false
   # enableTrackEvent = false
 
 [selineAnalytics]
-  # token = "XXXXXX"
-  # enableTrackEvent = false
+token = "8567b391c7274eb"
+enableTrackEvent = true
 
 [buymeacoffee]
   identifier = "nunocoracao"
