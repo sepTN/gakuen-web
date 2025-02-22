@@ -4,7 +4,7 @@ summary: "Principal Honoo Masato here with an important announcement regarding t
 tags: ["post","blog"]
 #externalUrl: ""
 #showSummary: true
-date: 2025-02-21
+date: 2025-02-20
 draft: false
 ---
 
@@ -23,9 +23,11 @@ As mentioned in the Store page, this project is pretty much a work in progress w
 
 ### This is not a Release Version
 Just to reiterate the point above. Our plan is to have early access going for at least one year before considering leaving from Early Access. This project is not a sprint, but rather a marathon. 
+
 - Is it fun?
 - Does it have enough contents?
 - Does it have release blocking bugs?
+
 Those are 3 things that we will evaluate routinely before considering to depart from Early Access. If not, then updates will continue as usual.
 
 As mentioned elsewhere, the update will be delivered via a rolling release cycle with patches delivered every other week. There are no Alpha or any other versions, we’re working with single EA branch with the assumption of everyone’s running on the latest version.
@@ -47,6 +49,7 @@ In an ideal world, we’d like to have all of these features before the early ac
 
 ### Closing Words
 That’s it for now, we thank you for your time, and please have a great day!
+
 P.S.: There is no February 2025 report, as this suffices.
 
 -Principal
