@@ -23,12 +23,17 @@
 [[main]]
   name = "Discord"
   url = "https://discord.com/invite/GUJkUWymmT"
-
   weight = 30
+
 [[main]]
   name = "Guides"
   pageRef = "guides"
   weight = 40
+  
+[[main]]
+  name = "Presskit"
+  url = "https://impress.games/press-kit/gakuenorg/sentou-gakuen-revival"
+  weight = 50
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
