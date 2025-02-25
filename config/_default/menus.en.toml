@@ -29,11 +29,29 @@
   name = "Guides"
   pageRef = "guides"
   weight = 40
-  
+
 [[main]]
-  name = "Presskit"
+  name = "Press"
   url = "https://impress.games/press-kit/gakuenorg/sentou-gakuen-revival"
   weight = 50
+
+[[main]]
+  name = "Press Kit"
+  parent = "Press"
+  url = "https://impress.games/press-kit/gakuenorg/sentou-gakuen-revival"
+  weight = 51
+
+[[main]]
+  name = "Case Study"
+  parent = "Press"
+  url = "https://dev.to/godot/online-visual-novel-in-godot-case-study-on-sentou-gakuen-33ce"
+  weight = 52
+
+[[main]]
+  name = "Developer Spotlight"
+  parent = "Press"
+  url = "https://www.reddit.com/r/MMORPG/comments/1g3e1pt/online_interactive_visual_novel_sentou_gakuen/"
+  weight = 53
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
