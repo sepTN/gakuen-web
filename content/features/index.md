@@ -30,6 +30,10 @@ You are a student at a random high school in Japan, where delinquency, chaos, an
 The game is presented in a Visual Novel style, but unlike traditional VNs, the characters you interact with are not just NPCs—they are players with their own unique stories. Once you finish your first day, you're free to forge your own path without predefined storylines.
 The world of Sentou Gakuen is dynamic, with a day/night cycle that affects everything from the availability of shops, accessible zones, to the spawning of mobs.
 
+{{< alert >}} As the game is currently in heavy development, this page is not up to date with the current version. 
+
+Please check our [Steam News](https://steamcommunity.com/app/405680/allnews/) page to see our list of updates. {{< /alert >}}
+
 ## Features
 - Visual Novel: Enjoy story that plays just like a classic Visual Novel. The story mode provides a single-player narrative experience, giving you the feel of a traditional VN, seamlessly blended with the rest of the gameplay.
 - 31 Unique Zones: Explore beyond the school’s walls with 31 distinct zones, each with its own upgrades and secrets to uncover.
